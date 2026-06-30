@@ -15,3 +15,7 @@ TBD
     - Otherwise show error
 - When time is up, add $100 to user’s balance
 - Balance is stored in local storage
+
+# References/Sources
+
+HTML tutorial: https://www.w3schools.com/html/default.asp
