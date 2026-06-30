@@ -9,6 +9,7 @@ TBD
 - Add tasks
     - text box
     - submit button
+    - task put in a list below the task box
 - Choose a task
 - Start 15 minute timer if a task is chosen
     - Otherwise show error
