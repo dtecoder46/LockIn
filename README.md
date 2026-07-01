@@ -25,7 +25,5 @@ HTML tutorial: https://www.w3schools.com/html/default.asp
 
 # Issue log
 
-| Issue | Solution | Date | Image |
------------------------------------
-| Getting innerHTML of an input box yields "undefined" | TBD | 7/1/26 | ![output of form submit](/img/undefined.png) |
-                                                                                                                
+Issue, 7/1/26: Getting innerHTML of an input box yields "undefined"
+![output of form submit](/img/undefined.png)                                                        
