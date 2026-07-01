@@ -7,11 +7,12 @@ TBD
 # Overall structure
 
 - Add tasks
-    - text box (make it required)
+    - text box
     - submit button
     - add()
         - extract text box contents
-        - task put in a list below the task box
+        - if contents empty, print error message
+        - else, task is put in a list below the task box
 - Choose a task
 - Start 15 minute timer if a task is chosen
     - Otherwise show error
